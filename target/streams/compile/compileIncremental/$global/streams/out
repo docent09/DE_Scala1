@@ -1,0 +1,33 @@
+[debug] [naha] 
+[debug] [naha] Initial source changes: 
+[debug] [naha] 	removed:Set()
+[debug] [naha] 	added: Set()
+[debug] [naha] 	modified: Set(C:\YandexDisk\Scala\FirstProject\src\main\scala\App.scala)
+[debug] [naha] Invalidated products: Set()
+[debug] [naha] External API changes: API Changes: Set()
+[debug] [naha] Modified binary dependencies: Set()
+[debug] [naha] Initial directly invalidated sources: Set(C:\YandexDisk\Scala\FirstProject\src\main\scala\App.scala)
+[debug] [naha] 
+[debug] [naha] Sources indirectly invalidated by:
+[debug] [naha] 	product: Set()
+[debug] [naha] 	binary dep: Set()
+[debug] [naha] 	external source: Set()
+[debug] All initially invalidated sources: Set(C:\YandexDisk\Scala\FirstProject\src\main\scala\App.scala)
+[debug] [naha] Initial set of included nodes: Set(C:\YandexDisk\Scala\FirstProject\src\main\scala\App.scala)
+[debug] [naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to C:\YandexDisk\Scala\FirstProject\target\scala-2.13\classes...
+[debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
+[debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
+[debug] Running cached compiler 5106fb22, interfacing (CompilerInterface) with Scala compiler version 2.13.10
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\resources.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\rt.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\sunrsasign.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\jsse.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\jce.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\charsets.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\jfr.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\classes;C:\Users\Home\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar
+[debug] 	-classpath
+[debug] 	C:\YandexDisk\Scala\FirstProject\target\scala-2.13\classes
+[debug] Scala compilation took 0.3182242 s
+[debug] [naha] New invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] Initial set of included nodes: Set()
+[debug] [naha] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()
