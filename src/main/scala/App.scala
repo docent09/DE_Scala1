@@ -49,6 +49,17 @@ object App {
     необходимую сумму с учетом результатов прошлого задания.
     Добавьте его зарплату в список и вычислите значение самой высокой зарплаты и самой низкой.
     */
+    def salary_change(salary: Double, delta: Double): Double = salary + delta
+
+    def min_max_salary(salary_list: List[Double]): List[Double] = {
+      var min = 1000000: Double
+      var max = 0: Double
+      for (n <- salary_list) {
+        if (n > max) max = n
+        if (n < min) min = n
+      }
+      List.apply(min, max)
+    }
 
 
     /* Задание e.
