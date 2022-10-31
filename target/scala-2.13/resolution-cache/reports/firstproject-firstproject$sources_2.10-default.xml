@@ -7,7 +7,7 @@
 		revision="0.1.0-SNAPSHOT"
 		conf="default"
 		confs="default"
-		date="20221030221935"/>
+		date="20221031202411"/>
 	<dependencies>
 		<module organisation="org.jetbrains.scala" name="sbt-structure-extractor">
 			<revision name="2021.3.0" status="release" pubdate="20211015161505" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/JetBrains/sbt-structure" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="46">
@@ -15,7 +15,7 @@
 				<metadata-artifact status="no" details="" size="3355" time="0" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-structure-extractor\ivy-2021.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jetbrains/scala/sbt-structure-extractor_2.10_0.13/2021.3.0/sbt-structure-extractor-2021.3.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="2021.3.0" rev-constraint-default="2021.3.0" rev-constraint-dynamic="2021.3.0" callerrev="0.1.0-SNAPSHOT" extra-scalaVersion="2.10" extra-sbtVersion="0.13"/>
 				<artifacts>
-					<artifact name="sbt-structure-extractor" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="31647" time="300" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-structure-extractor\srcs\sbt-structure-extractor-2021.3.0-sources.jar">
+					<artifact name="sbt-structure-extractor" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="31647" time="0" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-structure-extractor\srcs\sbt-structure-extractor-2021.3.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jetbrains/scala/sbt-structure-extractor_2.10_0.13/2021.3.0/sbt-structure-extractor-2021.3.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -26,7 +26,7 @@
 				<metadata-artifact status="no" details="" size="3169" time="0" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\com.eed3si9n\sbt-assembly\ivy-0.15.0.xml" searched="false" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.15.0/ivys/ivy.xml"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="0.15.0" rev-constraint-default="0.15.0" rev-constraint-dynamic="0.15.0" callerrev="0.1.0-SNAPSHOT" extra-scalaVersion="2.10" extra-sbtVersion="0.13"/>
 				<artifacts>
-					<artifact name="sbt-assembly" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="11814" time="3975" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\com.eed3si9n\sbt-assembly\srcs\sbt-assembly-0.15.0-sources.jar">
+					<artifact name="sbt-assembly" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="11814" time="0" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\com.eed3si9n\sbt-assembly\srcs\sbt-assembly-0.15.0-sources.jar">
 						<origin-location is-local="false" location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.15.0/srcs/sbt-assembly-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -38,7 +38,7 @@
 				<metadata-artifact status="no" details="" size="3002" time="0" location="C:\Users\Home\.ivy2\cache\org.scalactic\scalactic_2.10\ivy-3.0.8.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/3.0.8/scalactic_2.10-3.0.8.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="3.0.8" rev-constraint-default="3.0.8" rev-constraint-dynamic="3.0.8" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="scalactic_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="171119" time="685" location="C:\Users\Home\.ivy2\cache\org.scalactic\scalactic_2.10\srcs\scalactic_2.10-3.0.8-sources.jar">
+					<artifact name="scalactic_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="171119" time="0" location="C:\Users\Home\.ivy2\cache\org.scalactic\scalactic_2.10\srcs\scalactic_2.10-3.0.8-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/3.0.8/scalactic_2.10-3.0.8-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -50,7 +50,7 @@
 				<metadata-artifact status="no" details="" size="3027" time="0" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-idea-shell\ivy-2021.1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jetbrains/scala/sbt-idea-shell_2.10_0.13/2021.1.0/sbt-idea-shell-2021.1.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="2021.1.0" rev-constraint-default="2021.1.0" rev-constraint-dynamic="2021.1.0" callerrev="0.1.0-SNAPSHOT" extra-scalaVersion="2.10" extra-sbtVersion="0.13"/>
 				<artifacts>
-					<artifact name="sbt-idea-shell" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="2071" time="253" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-idea-shell\srcs\sbt-idea-shell-2021.1.0-sources.jar">
+					<artifact name="sbt-idea-shell" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="2071" time="0" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-idea-shell\srcs\sbt-idea-shell-2021.1.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jetbrains/scala/sbt-idea-shell_2.10_0.13/2021.1.0/sbt-idea-shell-2021.1.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -62,7 +62,7 @@
 				<metadata-artifact status="no" details="" size="3034" time="0" location="C:\Users\Home\.ivy2\cache\com.eed3si9n.jarjarabrams\jarjar-abrams-core_2.10\ivy-0.1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/eed3si9n/jarjarabrams/jarjar-abrams-core_2.10/0.1.0/jarjar-abrams-core_2.10-0.1.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="0.1.0" rev-constraint-default="0.1.0" rev-constraint-dynamic="0.1.0" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="jarjar-abrams-core_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10125" time="264" location="C:\Users\Home\.ivy2\cache\com.eed3si9n.jarjarabrams\jarjar-abrams-core_2.10\srcs\jarjar-abrams-core_2.10-0.1.0-sources.jar">
+					<artifact name="jarjar-abrams-core_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10125" time="0" location="C:\Users\Home\.ivy2\cache\com.eed3si9n.jarjarabrams\jarjar-abrams-core_2.10\srcs\jarjar-abrams-core_2.10-0.1.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/eed3si9n/jarjarabrams/jarjar-abrams-core_2.10/0.1.0/jarjar-abrams-core_2.10-0.1.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -74,7 +74,7 @@
 				<metadata-artifact status="no" details="" size="3207" time="0" location="C:\Users\Home\.ivy2\cache\org.pantsbuild\jarjar\ivy-1.7.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/pantsbuild/jarjar/1.7.2/jarjar-1.7.2.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.7.2" rev-constraint-default="1.7.2" rev-constraint-dynamic="1.7.2" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="jarjar" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="52095" time="299" location="C:\Users\Home\.ivy2\cache\org.pantsbuild\jarjar\srcs\jarjar-1.7.2-sources.jar">
+					<artifact name="jarjar" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="52095" time="0" location="C:\Users\Home\.ivy2\cache\org.pantsbuild\jarjar\srcs\jarjar-1.7.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/pantsbuild/jarjar/1.7.2/jarjar-1.7.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -86,7 +86,7 @@
 				<metadata-artifact status="no" details="" size="3252" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.ant\ant\ivy-1.9.9.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.9/ant-1.9.9.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.9.9" rev-constraint-default="1.9.9" rev-constraint-dynamic="1.9.9" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="ant" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1956157" time="2524" location="C:\Users\Home\.ivy2\cache\org.apache.ant\ant\srcs\ant-1.9.9-sources.jar">
+					<artifact name="ant" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1956157" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.ant\ant\srcs\ant-1.9.9-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.9/ant-1.9.9-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -98,7 +98,7 @@
 				<metadata-artifact status="no" details="" size="3264" time="0" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-idea-compiler-indices\ivy-1.0.13.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jetbrains/scala/sbt-idea-compiler-indices_2.10_0.13/1.0.13/sbt-idea-compiler-indices-1.0.13.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.0.13" rev-constraint-default="1.0.13" rev-constraint-dynamic="1.0.13" callerrev="0.1.0-SNAPSHOT" extra-scalaVersion="2.10" extra-sbtVersion="0.13"/>
 				<artifacts>
-					<artifact name="sbt-idea-compiler-indices" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="6229" time="270" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-idea-compiler-indices\srcs\sbt-idea-compiler-indices-1.0.13-sources.jar">
+					<artifact name="sbt-idea-compiler-indices" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="6229" time="0" location="C:\Users\Home\.ivy2\cache\scala_2.10\sbt_0.13\org.jetbrains.scala\sbt-idea-compiler-indices\srcs\sbt-idea-compiler-indices-1.0.13-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jetbrains/scala/sbt-idea-compiler-indices_2.10_0.13/1.0.13/sbt-idea-compiler-indices-1.0.13-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -110,7 +110,7 @@
 				<metadata-artifact status="no" details="" size="2925" time="0" location="C:\Users\Home\.ivy2\cache\org.jetbrains.scala\scala-compiler-indices-protocol_2.10\ivy-1.0.13.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jetbrains/scala/scala-compiler-indices-protocol_2.10/1.0.13/scala-compiler-indices-protocol_2.10-1.0.13.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.0.13" rev-constraint-default="1.0.13" rev-constraint-dynamic="1.0.13" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="scala-compiler-indices-protocol_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="7652" time="506" location="C:\Users\Home\.ivy2\cache\org.jetbrains.scala\scala-compiler-indices-protocol_2.10\srcs\scala-compiler-indices-protocol_2.10-1.0.13-sources.jar">
+					<artifact name="scala-compiler-indices-protocol_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="7652" time="0" location="C:\Users\Home\.ivy2\cache\org.jetbrains.scala\scala-compiler-indices-protocol_2.10\srcs\scala-compiler-indices-protocol_2.10-1.0.13-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jetbrains/scala/scala-compiler-indices-protocol_2.10/1.0.13/scala-compiler-indices-protocol_2.10-1.0.13-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -122,7 +122,7 @@
 				<metadata-artifact status="no" details="" size="3114" time="0" location="C:\Users\Home\.ivy2\cache\io.spray\spray-json_2.10\ivy-1.3.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/spray/spray-json_2.10/1.3.5/spray-json_2.10-1.3.5.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.3.5" rev-constraint-default="1.3.5" rev-constraint-dynamic="1.3.5" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="spray-json_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="25072" time="657" location="C:\Users\Home\.ivy2\cache\io.spray\spray-json_2.10\srcs\spray-json_2.10-1.3.5-sources.jar">
+					<artifact name="spray-json_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="25072" time="0" location="C:\Users\Home\.ivy2\cache\io.spray\spray-json_2.10\srcs\spray-json_2.10-1.3.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/spray/spray-json_2.10/1.3.5/spray-json_2.10-1.3.5-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -134,7 +134,7 @@
 				<metadata-artifact status="no" details="" size="4983" time="0" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-commons\ivy-7.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/7.0/asm-commons-7.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="7.0" rev-constraint-default="7.0" rev-constraint-dynamic="7.0" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="asm-commons" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="88263" time="316" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-commons\srcs\asm-commons-7.0-sources.jar">
+					<artifact name="asm-commons" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="88263" time="0" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-commons\srcs\asm-commons-7.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/7.0/asm-commons-7.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -146,7 +146,7 @@
 				<metadata-artifact status="no" details="" size="4594" time="0" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-analysis\ivy-7.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/7.0/asm-analysis-7.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="7.0" rev-constraint-default="7.0" rev-constraint-dynamic="7.0" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="asm-analysis" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="40506" time="315" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-analysis\srcs\asm-analysis-7.0-sources.jar">
+					<artifact name="asm-analysis" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="40506" time="0" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-analysis\srcs\asm-analysis-7.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/7.0/asm-analysis-7.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -158,7 +158,7 @@
 				<metadata-artifact status="no" details="" size="4565" time="0" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-tree\ivy-7.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/7.0/asm-tree-7.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="7.0" rev-constraint-default="7.0" rev-constraint-dynamic="7.0" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="asm-tree" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="73183" time="454" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-tree\srcs\asm-tree-7.0-sources.jar">
+					<artifact name="asm-tree" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="73183" time="0" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm-tree\srcs\asm-tree-7.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/7.0/asm-tree-7.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -170,7 +170,7 @@
 				<metadata-artifact status="no" details="" size="4411" time="0" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm\ivy-7.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/ow2/asm/asm/7.0/asm-7.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="7.0" rev-constraint-default="7.0" rev-constraint-dynamic="7.0" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="asm" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="170056" time="282" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm\srcs\asm-7.0-sources.jar">
+					<artifact name="asm" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="170056" time="0" location="C:\Users\Home\.ivy2\cache\org.ow2.asm\asm\srcs\asm-7.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/ow2/asm/asm/7.0/asm-7.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -337,7 +337,7 @@
 				<metadata-artifact status="no" details="" size="15049" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-plugin-api\ivy-3.3.9.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="3.3.9" rev-constraint-default="3.3.9" rev-constraint-dynamic="3.3.9" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="maven-plugin-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="45153" time="223" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-plugin-api\srcs\maven-plugin-api-3.3.9-sources.jar">
+					<artifact name="maven-plugin-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="45153" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-plugin-api\srcs\maven-plugin-api-3.3.9-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -349,7 +349,7 @@
 				<metadata-artifact status="no" details="" size="5021" time="0" location="C:\Users\Home\.ivy2\cache\org.eclipse.sisu\org.eclipse.sisu.plexus\ivy-0.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.2/org.eclipse.sisu.plexus-0.3.2.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="0.3.2" rev-constraint-default="0.3.2" rev-constraint-dynamic="0.3.2" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="org.eclipse.sisu.plexus" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="152528" time="616" location="C:\Users\Home\.ivy2\cache\org.eclipse.sisu\org.eclipse.sisu.plexus\srcs\org.eclipse.sisu.plexus-0.3.2-sources.jar">
+					<artifact name="org.eclipse.sisu.plexus" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="152528" time="0" location="C:\Users\Home\.ivy2\cache\org.eclipse.sisu\org.eclipse.sisu.plexus\srcs\org.eclipse.sisu.plexus-0.3.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.2/org.eclipse.sisu.plexus-0.3.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -361,7 +361,7 @@
 				<metadata-artifact status="no" details="" size="7288" time="0" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-classworlds\ivy-2.5.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="2.5.2" rev-constraint-default="2.5.2" rev-constraint-dynamic="2.5.2" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="plexus-classworlds" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="49562" time="249" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-classworlds\srcs\plexus-classworlds-2.5.2-sources.jar">
+					<artifact name="plexus-classworlds" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="49562" time="0" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-classworlds\srcs\plexus-classworlds-2.5.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -373,7 +373,7 @@
 				<metadata-artifact status="no" details="" size="5339" time="0" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-component-annotations\ivy-1.5.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.5.5" rev-constraint-default="1.5.5" rev-constraint-dynamic="1.5.5" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="plexus-component-annotations" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="3725" time="263" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-component-annotations\srcs\plexus-component-annotations-1.5.5-sources.jar">
+					<artifact name="plexus-component-annotations" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3725" time="0" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-component-annotations\srcs\plexus-component-annotations-1.5.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -385,7 +385,7 @@
 				<metadata-artifact status="no" details="" size="14681" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-model\ivy-3.3.9.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="3.3.9" rev-constraint-default="3.3.9" rev-constraint-dynamic="3.3.9" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="maven-model" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="117849" time="570" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-model\srcs\maven-model-3.3.9-sources.jar">
+					<artifact name="maven-model" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="117849" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-model\srcs\maven-model-3.3.9-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -718,7 +718,7 @@
 				<metadata-artifact status="no" details="" size="2822" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.ant\ant-launcher\ivy-1.9.9.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.9/ant-launcher-1.9.9.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.9.9" rev-constraint-default="1.9.9" rev-constraint-dynamic="1.9.9" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="ant-launcher" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="19063" time="268" location="C:\Users\Home\.ivy2\cache\org.apache.ant\ant-launcher\srcs\ant-launcher-1.9.9-sources.jar">
+					<artifact name="ant-launcher" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="19063" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.ant\ant-launcher\srcs\ant-launcher-1.9.9-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.9/ant-launcher-1.9.9-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -833,7 +833,7 @@
 				<metadata-artifact status="no" details="" size="14743" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-artifact\ivy-3.3.9.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.3.9/maven-artifact-3.3.9.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="3.3.9" rev-constraint-default="3.3.9" rev-constraint-dynamic="3.3.9" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="maven-artifact" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="48531" time="267" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-artifact\srcs\maven-artifact-3.3.9-sources.jar">
+					<artifact name="maven-artifact" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="48531" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.maven\maven-artifact\srcs\maven-artifact-3.3.9-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.3.9/maven-artifact-3.3.9-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -845,7 +845,7 @@
 				<metadata-artifact status="no" details="" size="11782" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="3.4" rev-constraint-default="3.4" rev-constraint-dynamic="3.4" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="commons-lang3" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="487156" time="337" location="C:\Users\Home\.ivy2\cache\org.apache.commons\commons-lang3\srcs\commons-lang3-3.4-sources.jar">
+					<artifact name="commons-lang3" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="487156" time="0" location="C:\Users\Home\.ivy2\cache\org.apache.commons\commons-lang3\srcs\commons-lang3-3.4-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -857,7 +857,7 @@
 				<metadata-artifact status="no" details="" size="7450" time="0" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-utils\ivy-3.0.22.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="3.0.22" rev-constraint-default="3.0.22" rev-constraint-dynamic="3.0.22" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="plexus-utils" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="262042" time="301" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-utils\srcs\plexus-utils-3.0.22-sources.jar">
+					<artifact name="plexus-utils" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="262042" time="0" location="C:\Users\Home\.ivy2\cache\org.codehaus.plexus\plexus-utils\srcs\plexus-utils-3.0.22-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -869,7 +869,7 @@
 				<metadata-artifact status="no" details="" size="3789" time="0" location="C:\Users\Home\.ivy2\cache\org.eclipse.sisu\org.eclipse.sisu.inject\ivy-0.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.2/org.eclipse.sisu.inject-0.3.2.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="0.3.2" rev-constraint-default="0.3.2" rev-constraint-dynamic="0.3.2" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="org.eclipse.sisu.inject" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="305022" time="369" location="C:\Users\Home\.ivy2\cache\org.eclipse.sisu\org.eclipse.sisu.inject\srcs\org.eclipse.sisu.inject-0.3.2-sources.jar">
+					<artifact name="org.eclipse.sisu.inject" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="305022" time="0" location="C:\Users\Home\.ivy2\cache\org.eclipse.sisu\org.eclipse.sisu.inject\srcs\org.eclipse.sisu.inject-0.3.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.2/org.eclipse.sisu.inject-0.3.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -881,7 +881,7 @@
 				<metadata-artifact status="no" details="" size="9850" time="0" location="C:\Users\Home\.ivy2\cache\javax.enterprise\cdi-api\ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="cdi-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="104377" time="316" location="C:\Users\Home\.ivy2\cache\javax.enterprise\cdi-api\srcs\cdi-api-1.0-sources.jar">
+					<artifact name="cdi-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="104377" time="0" location="C:\Users\Home\.ivy2\cache\javax.enterprise\cdi-api\srcs\cdi-api-1.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -893,7 +893,7 @@
 				<metadata-artifact status="no" details="" size="2536" time="0" location="C:\Users\Home\.ivy2\cache\javax.inject\javax.inject\ivy-1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1" rev-constraint-default="1" rev-constraint-dynamic="1" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="javax.inject" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10928" time="266" location="C:\Users\Home\.ivy2\cache\javax.inject\javax.inject\srcs\javax.inject-1-sources.jar">
+					<artifact name="javax.inject" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10928" time="0" location="C:\Users\Home\.ivy2\cache\javax.inject\javax.inject\srcs\javax.inject-1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -905,7 +905,7 @@
 				<metadata-artifact status="no" details="" size="2621" time="0" location="C:\Users\Home\.ivy2\cache\javax.annotation\jsr250-api\ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="jsr250-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="13126" time="439" location="C:\Users\Home\.ivy2\cache\javax.annotation\jsr250-api\srcs\jsr250-api-1.0-sources.jar">
+					<artifact name="jsr250-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13126" time="0" location="C:\Users\Home\.ivy2\cache\javax.annotation\jsr250-api\srcs\jsr250-api-1.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -917,7 +917,7 @@
 				<metadata-artifact status="no" details="" size="2720" time="0" location="C:\Users\Home\.ivy2\cache\org.jboss.interceptor\jboss-interceptor-api\ivy-1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom"/>
 				<caller organisation="firstproject" name="firstproject$sources_2.10" conf="default" rev="1.1" rev-constraint-default="1.1" rev-constraint-dynamic="1.1" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="jboss-interceptor-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="7204" time="285" location="C:\Users\Home\.ivy2\cache\org.jboss.interceptor\jboss-interceptor-api\srcs\jboss-interceptor-api-1.1-sources.jar">
+					<artifact name="jboss-interceptor-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="7204" time="0" location="C:\Users\Home\.ivy2\cache\org.jboss.interceptor\jboss-interceptor-api\srcs\jboss-interceptor-api-1.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1-sources.jar"/>
 					</artifact>
 				</artifacts>

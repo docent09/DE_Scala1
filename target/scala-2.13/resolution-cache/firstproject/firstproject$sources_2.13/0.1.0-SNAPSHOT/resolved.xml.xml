@@ -4,7 +4,7 @@
 		module="firstproject$sources_2.13"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20221030222036"
+		publication="20221031202413"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

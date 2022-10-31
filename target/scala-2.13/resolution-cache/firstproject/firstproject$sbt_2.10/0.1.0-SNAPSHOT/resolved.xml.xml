@@ -4,7 +4,7 @@
 		module="firstproject$sbt_2.10"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20221030221926"
+		publication="20221031202406"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
