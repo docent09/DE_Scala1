@@ -18,13 +18,13 @@
 [info] Compiling 1 Scala source to C:\YandexDisk\Scala\FirstProject\target\scala-2.13\classes...
 [debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
 [debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
-[debug] Running cached compiler 74ca9528, interfacing (CompilerInterface) with Scala compiler version 2.13.10
+[debug] Running cached compiler 53938d51, interfacing (CompilerInterface) with Scala compiler version 2.13.10
 [debug] Calling Scala compiler with arguments  (CompilerInterface):
 [debug] 	-bootclasspath
 [debug] 	C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\resources.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\rt.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\sunrsasign.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\jsse.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\jce.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\charsets.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\lib\jfr.jar;C:\Users\Home\.jdks\temurin-1.8.0_345\jre\classes;C:\Users\Home\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar
 [debug] 	-classpath
 [debug] 	C:\YandexDisk\Scala\FirstProject\target\scala-2.13\classes
-[debug] Scala compilation took 0.5206641 s
+[debug] Scala compilation took 0.2295053 s
 [debug] [naha] New invalidations:
 [debug] [naha] 	Set()
 [debug] [naha] Initial set of included nodes: Set()
