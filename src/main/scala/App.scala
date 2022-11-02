@@ -102,13 +102,11 @@ object App {
     */
     def middle_calc(salary_list: List[Double], salary_from: Double, salary_to: Double): List[Int] = {
       var numbers = List[Int]()
-      println(numbers)
       for (i <- salary_list.indices)
         {
           if ((salary_list(i) >= salary_from) && (salary_list(i) <= salary_to))
           {
-            println("ОК")
-            //numbers = numbers :+ List(i)
+            numbers = numbers :+ i
           }
         }
       numbers
@@ -123,12 +121,10 @@ object App {
     Однако наступил кризис и ваши сотрудники требуют повысить зарплату.
     Вам необходимо проиндексировать зарплату каждого сотрудника на уровень инфляции – 7%
     */
-    for (i <- sorted_salary_list.indices)
-      {
-
-      }
-
-
+    val crisys_salary_list = List[Double]()
+    for (s <- sorted_salary_list) crisys_salary_list :+ 1.07 * s
+    println("Список окладов сотрудников после повышения на 7%:")
+    println(crisys_salary_list)
 
   }
 }
